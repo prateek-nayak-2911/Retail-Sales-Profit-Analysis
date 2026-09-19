@@ -89,6 +89,19 @@ An Excel dashboard was created to provide a clear overview of the business perfo
 
 ---
 
+### Dashboard Preview
+
+> 📸 **<img width="1243" height="702" alt="image" src="https://github.com/user-attachments/assets/1d6a4adc-46fa-4762-a369-05d8fd7edf0c" />**
+
+
+**
+
+```text
+![E-Commerce Sales Dashboard](images/dashboard.png)
+```
+
+---
+
 ## 💡 Key Business Insights
 
 Based on the analysis:
